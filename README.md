@@ -21,7 +21,7 @@ linkdin- https://www.linkedin.com/in/reena-k-0aa37b244/
 <br>
 😄 Pronouns: She/Her
 <br>
-⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.**
+⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
