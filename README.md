@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm K Reena</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://image.lexica.art/full_jpg/eb14e2bc-8f78-4629-beff-4cb9a82076d4">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reena1912&label=Profile%20views&color=0e75b6&style=flat" alt="reena1912" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
