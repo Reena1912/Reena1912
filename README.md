@@ -1,42 +1,56 @@
+<h1 align="center">Hi, I'm K Reena 👋</h1>
 
-<h1 align="center">Hi 👋, I'm K Reena</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reena1912&label=Profile%20views&color=0e75b6&style=flat" alt="reena1912" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-👋 Hi, I’m @Reena1912
-<br>
-👀 I’m interested in Machine Learning and Python Programming.
-<br>
-🌱 I’m currently learning
-<br>
-💞 I’m looking to collaborate in project related to machine learning and python
-<br>
-📫 How to reach me:
-<br>
-email- reenarao1912@gmail.com 
-<br>
-linkdin- https://www.linkedin.com/in/reena-k-0aa37b244/
-<br>
-😄 Pronouns: She/Her
-<br>
-⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reena k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena k" height="30" width="40" /></a>
-<a href="https://instagram.com/reena_1917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reena_1917" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/reena-k-0aa37b244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/KReena1903"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">📧 reenarao1912@gmail.com | </p>
 
+---
+
+### 💻 Technical Skills
+#### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Libraries
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0176C1?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-ffca28?style=for-the-badge)
+
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-ffca28?style=for-the-badge)
+
+
+#### Machine Learning
+- Basics of Machine Learning
+- Basics of Deep Learning
+- Basics of Python
+
+#### Social Skills
+- Good Communication skills
+- Team building
+
+---
+
+### 🌐 Projects
+1. **[Goinvesto](https://goinvesto.com/)** - Working on a startup.
+
+---
+
+### 🏅 Extracurricular Activities
+- Active coder in the coding club (RUBY) of my college.
+- Participated in various hackathons and coding competitions.
+
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reena1912&show_icons=true&locale=en&layout=compact" alt="reena1912" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reena1912&show_icons=true&locale=en" alt="reena1912" /></p>
@@ -44,7 +58,5 @@ linkdin- https://www.linkedin.com/in/reena-k-0aa37b244/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reena1912&" alt="reena1912" /></p>
 
-<!---
-Reena1912/Reena1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
