@@ -7,14 +7,6 @@
 <br>
 💞 I’m looking to collaborate in project related to machine learning and python
 <br>
-📫 How to reach me:
-<br>
-email- reenarao1912@gmail.com 
-<br>
-linkdin- https://www.linkedin.com/in/reena-k-0aa37b244/
-<br>
-😄 Pronouns: She/Her
-<br>
 ⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.
 
 <p align="center">
