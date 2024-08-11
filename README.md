@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/reena-k-0aa37b244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/KReena1903"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
 </p>
 
 <p align="center">📧 reenarao1912@gmail.com </p>
