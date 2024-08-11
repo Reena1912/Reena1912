@@ -1,4 +1,21 @@
 <h1 align="center">Hi, I'm K Reena 👋</h1>
+👋 Hi, I’m @Reena1912
+<br>
+👀 I’m interested in Machine Learning and Python Programming.
+<br>
+🌱 I’m currently learning
+<br>
+💞 I’m looking to collaborate in project related to machine learning and python
+<br>
+📫 How to reach me:
+<br>
+email- reenarao1912@gmail.com 
+<br>
+linkdin- https://www.linkedin.com/in/reena-k-0aa37b244/
+<br>
+😄 Pronouns: She/Her
+<br>
+⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reena-k-0aa37b244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -6,7 +23,7 @@
   <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center">📧 reenarao1912@gmail.com | </p>
+<p align="center">📧 reenarao1912@gmail.com </p>
 
 ---
 
