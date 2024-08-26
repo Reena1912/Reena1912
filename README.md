@@ -29,6 +29,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0176C1?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit learn](https://img.shields.io/badge/scikit%20learn-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
