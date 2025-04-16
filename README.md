@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm K Reena 👋</h1>
 👋 Hi, I’m @Reena1912
 <br>
-👀 I’m interested in Machine Learning and Python Programming.
+👀 I’m interested in Machine Learning and MERN Stack.
 <br>
 🌱 I’m currently learning
 <br>
-💞 I’m looking to collaborate in project related to machine learning and python
+💞 I’m looking to collaborate in project related to machine learning and MERN Stack.
 <br>
 ⚡ Fun fact: I'm a ML Engineer who enjoys expressing creativity through sketching and drawing in my free time.
 
