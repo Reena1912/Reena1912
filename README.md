@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Final-year CSE student · NLP & LLM Systems · Hackathon Winner 🏆</em>
+  <em>Final-year CSE student · AI & ML · Data Analysis · Hackathon Winner 🏆</em>
 </p>
 
 <p align="center">
