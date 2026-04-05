@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Reena+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;NLP+%7C+LLMs+%7C+Backend+Systems;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG" />
-</h1>
-
+  <h1 align="center">
+  Hi there, I'm K. Reena 👋<br>
+    </h1>
+  
 <p align="center">
   <em>Final-year CSE student · AI & ML · Data Analysis · Hackathon Winner 🏆</em>
 </p>
