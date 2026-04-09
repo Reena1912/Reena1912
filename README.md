@@ -96,6 +96,23 @@
 
 ---
 
+### 📋 [Problem Recommender System](https://github.com/Reena1912/problem-recommender)
+> Smart problem recommender that analyzes your submission history and targets your weak spots.
+
+- **Identifies weak topics** using failure-rate analytics and dynamically recommends unsolved problems with difficulty fallback logic
+- **GraphQL integration** with LeetCode API for real-time profile analysis across 3000+ problems
+- **Data pipeline** (Fetch → Process → Analyze) with <1 second analysis time
+- **Personalized rankings** using custom weakness-score algorithm
+
+**Tech:** Python • GraphQL • Data Engineering • APIs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+---
+
 ### 🧠 [Codebase Archaeologist — Automated Program Analysis System](https://github.com/Reena1912)
 > AI-powered legacy code analysis tool that automates documentation, detects code smells, and maps dependencies.
 
@@ -112,18 +129,7 @@
 
 ---
 
-### 📋 [LeetCode Recommender System](https://github.com/Reena1912)
-> Smart problem recommender that analyzes your submission history and targets your weak spots.
 
-- Identifies weak topics using **failure-rate analytics** and dynamically recommends unsolved problems with difficulty fallback logic
-- **FastAPI** backend deployed on **Railway** with live **Swagger (OpenAPI)** documentation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
----
 
 ### 🏥 [NeuroScanAI](https://github.com/Reena1912/NeuroScanAI)
 > AI-powered web app that analyzes patient medical reports using multiple virtual medical specialists.
