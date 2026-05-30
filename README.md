@@ -31,7 +31,7 @@
 
 ##  Tech Stack
 
-** NLP & Machine Learning**
+   NLP & Machine Learning
 
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=for-the-badge)
 ![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
@@ -39,7 +39,7 @@
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 ![Zero-Shot Learning](https://img.shields.io/badge/Zero--Shot_Learning-6366F1?style=for-the-badge)
 
-** Languages & Frameworks**
+ Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -48,7 +48,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-** Data Engineering & ML Tools**
+ Data Engineering & ML Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,7 +57,7 @@
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-** Databases & Cloud**
+Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -66,8 +66,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-** Dev Tools**
-
+ Dev Tools
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
