@@ -1,6 +1,6 @@
 <h1 align="center">
   <h1 align="center">
-  Hi there, I'm K. Reena 👋<br>
+  Hi there, I'm K. Reena <br>
     </h1>
   
 <p align="center">
@@ -17,41 +17,38 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Final-year **B.Tech CSE** student at Rungta College of Engineering & Technology, Chhattisgarh *(CGPA: 8.0+)*
-- 🏆 **Hackathon Winner** — 2nd Place at *Hack for Impact 2024*, recognized by **BoAt CEO Aman Gupta**
-- 🤖 Passionate about **Generative AI**, making complex AI accessible and practical
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
-- 🛠️ Love building robust **Python backends** + clean, minimal frontends
-- 📚 Always learning something new in the AI/ML space
-- 🌐 Experienced with cloud deployment on **Render**, **Railway**, and **Supabase**
+-  Final-year **B.Tech CSE** student at Rungta College of Engineering & Technology, Chhattisgarh *(CGPA: 8.0+)*
+-  **Hackathon Winner** — 2nd Place at *Hack for Impact 2024*, recognized by **BoAt CEO Aman Gupta**
+-  Passionate about **Generative AI**, making complex AI accessible and practical
+-  Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
+-  Love building robust **Python backends** + clean, minimal frontends
+-  Always learning something new in the AI/ML space
+-  Experienced with cloud deployment on **Render**, **Railway**, and **Supabase**
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-**🤖 NLP & Machine Learning**
+** NLP & Machine Learning**
 
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=for-the-badge)
 ![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 ![Zero-Shot Learning](https://img.shields.io/badge/Zero--Shot_Learning-6366F1?style=for-the-badge)
 
-**💻 Languages & Frameworks**
+** Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**📊 Data Engineering & ML Tools**
+** Data Engineering & ML Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,7 +57,7 @@
 ![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**🗄️ Databases & Cloud**
+** Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -69,7 +66,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**🔧 Dev Tools**
+** Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -79,9 +76,9 @@
 
 ---
 
-## 🌟 Projects
+##  Projects
 
-### 🔁 [RepurposeAI — NLP-Powered Content Transformation System](https://github.com/Reena1912/Ai-content)
+###  [RepurposeAI — NLP-Powered Content Transformation System](https://github.com/Reena1912/Ai-content)
 > Transforms long-form articles into platform-ready content for **Twitter, LinkedIn, Instagram, Newsletter & Medium** — in seconds.
 
 - Leverages **Groq's LLaMA 3.3 70B** with zero-shot learning to generate 5 platform-optimized outputs
@@ -96,7 +93,7 @@
 
 ---
 
-### 📋 [Problem Recommender System](https://github.com/Reena1912/problem-recommender)
+###  [Problem Recommender System](https://github.com/Reena1912/problem-recommender)
 > Smart problem recommender that analyzes your submission history and targets your weak spots.
 
 - **Identifies weak topics** using failure-rate analytics and dynamically recommends unsolved problems with difficulty fallback logic
@@ -113,7 +110,7 @@
 
 ---
 
-### 🧠 [Codebase Archaeologist — Automated Program Analysis System](https://github.com/Reena1912)
+###  [Codebase Archaeologist — Automated Program Analysis System](https://github.com/Reena1912)
 > AI-powered legacy code analysis tool that automates documentation, detects code smells, and maps dependencies.
 
 - Novel algorithm combining **AST analysis + graph-based dependency mapping** — automates **90% of legacy documentation**, reducing developer onboarding time by **40%**
@@ -131,7 +128,7 @@
 
 
 
-### 🏥 [NeuroScanAI](https://github.com/Reena1912/NeuroScanAI)
+###  [NeuroScanAI](https://github.com/Reena1912/NeuroScanAI)
 > AI-powered web app that analyzes patient medical reports using multiple virtual medical specialists.
 
 - Transforms complex medical reports into **clear, structured summaries** using Generative AI
@@ -142,11 +139,11 @@
 
 ---
 
-### 🤝 Hack for Impact — Startup × Investor Matchmaking Platform 🏆
+###  Hack for Impact — Startup × Investor Matchmaking Platform 🏆
 > Intelligent matchmaking platform connecting startups with investors — built at a national hackathon.
 
 - ML-driven **entity extraction & similarity scoring** to match startups with relevant investors and incubators
-- 🥈 **2nd Place** at national hackathon, awarded by **BoAt CEO Aman Gupta**
+-  **2nd Place** at national hackathon, awarded by **BoAt CEO Aman Gupta**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat)
@@ -154,9 +151,9 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
-**🔬 Data Analytics Research Intern** — *VOIS for Tech Program*
+** Data Analytics Research Intern** — *VOIS for Tech Program*
 
 - Automated data transformation pipelines for **multi-domain datasets** with preprocessing, validation & statistical analysis
 - Research-grade **data quality analysis** across 5+ structured datasets — custom algorithms for anomaly detection, missing data imputation & feature engineering
@@ -165,7 +162,7 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Score | Year |
 |--------|------------|-------|------|
@@ -175,12 +172,12 @@
 
 ---
 
-## 🏆 Awards & Certifications
+##  Awards & Certifications
 
-**🥈 Hack for Impact Hackathon 2024 — 2nd Place** *(National Level)*
+** Hack for Impact Hackathon 2024 — 2nd Place** *(National Level)*
 > Recognized by **BoAt CEO Aman Gupta** for building an ML-powered startup-investor matchmaking platform
 
-**📜 Certifications**
+** Certifications**
 
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-F80000?style=flat&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Essentials-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -190,7 +187,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reena1912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
@@ -203,7 +200,7 @@
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 <p align="left">
   <a href="mailto:reenarao1912@gmail.com">
@@ -219,7 +216,7 @@
   </a>
 </p>
 
-> 💬 Open to collaborations on AI tools, NLP research, backend systems, and anything that pushes the boundaries of what LLMs can do!
+>  Open to collaborations on AI tools, NLP research, backend systems, and anything that pushes the boundaries of what LLMs can do!
 
 ---
 
