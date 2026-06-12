@@ -4,7 +4,7 @@
     </h1>
   
 <p align="center">
-  <em>Final-year CSE student · AI & ML · Data Analysis · Hackathon Winner 🏆</em>
+  <em>A Recent graduate CSE student · AI & ML · Data Analysis · Hackathon Winner 🏆</em>
 </p>
 
 <p align="center">
@@ -19,11 +19,10 @@
 
 ##  About Me
 
--  Final-year **B.Tech CSE** student at Rungta College of Engineering & Technology, Chhattisgarh *(CGPA: 8.0+)*
+-  A Recent graduate **B.Tech CSE** student from Rungta College of Engineering & Technology, Chhattisgarh *(CGPA: 8.0+)*
 -  **Hackathon Winner** — 2nd Place at *Hack for Impact 2024*, recognized by **BoAt CEO Aman Gupta**
--  Passionate about **Generative AI**, making complex AI accessible and practical
--  Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
 -  Love building robust **Python backends** + clean, minimal frontends
+-  Passionate about **Generative AI**, making complex AI accessible and practical
 -  Always learning something new in the AI/ML space
 -  Experienced with cloud deployment on **Render**, **Railway**, and **Supabase**
 
