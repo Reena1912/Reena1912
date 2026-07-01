@@ -158,17 +158,6 @@ Databases & Cloud
 - Research-grade **data quality analysis** across 5+ structured datasets — custom algorithms for anomaly detection, missing data imputation & feature engineering
 - Built and optimized **3+ end-to-end ETL pipelines** focused on scalability and production reproducibility
 - Collaborated via **Git/GitHub**, documented technical methodologies and experimental workflows
-
----
-
-##  Education
-
-| Degree | Institution | Score | Year |
-|--------|------------|-------|------|
-| B.Tech — Computer Science & Engineering | Rungta College of Engineering & Technology, Chhattisgarh | CGPA: 8.0+ | 2022 – 2026 |
-| Class 12th | Sree Narayana Guru Vidya Bhavan, Bhilai | 78.8% | 2020 – 2022 |
-| Class 10th | Sree Narayana Guru Vidya Bhavan, Bhilai | 89% | 2020 |
-
 ---
 
 ##  Awards & Certifications
