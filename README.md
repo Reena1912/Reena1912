@@ -1,213 +1,127 @@
-<h1 align="center">
-  <h1 align="center">
-  Hi there, I'm K. Reena <br>
-    </h1>
-  
-<p align="center">
-  <em>A Recent graduate CSE student · AI & ML · Data Analysis · Hackathon Winner 🏆</em>
-</p>
+<div align="center">
+  <h1>Hi there, I'm K. Reena 👋</h1>
+  <p><strong>B.Tech CSE (Batch of 2026) · AI & ML Engineer · Backend Developer · Hackathon Winner 🏆</strong></p>
 
-<p align="center">
-  <a href="https://github.com/Reena1912">
-    <img src="https://img.shields.io/github/followers/Reena1912?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Reena1912&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+  <p>
+    <a href="https://linkedin.com/in/k-reena-0aa37b244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:reenarao1912@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/Reena1912"><img src="https://img.shields.io/github/followers/Reena1912?label=Followers&style=flat-square&color=2ea44f" alt="GitHub Followers"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Reena1912&color=2ea44f&style=flat-square" alt="Profile Views"/>
+  </p>
+</div>
 
 ---
 
-##  About Me
+## 📌 About Me
 
--  A Recent graduate **B.Tech CSE** student from Rungta College of Engineering & Technology, Chhattisgarh *(CGPA: 8.0+)*
--  **Hackathon Winner** — 2nd Place at *Hack for Impact 2024*, recognized by **BoAt CEO Aman Gupta**
--  Love building robust **Python backends** + clean, minimal frontends
--  Passionate about **Generative AI**, making complex AI accessible and practical
--  Always learning something new in the AI/ML space
--  Experienced with cloud deployment on **Render**, **Railway**, and **Supabase**
-
----
-
-##  Tech Stack
-
-   NLP & Machine Learning
-
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=for-the-badge)
-![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Zero-Shot Learning](https://img.shields.io/badge/Zero--Shot_Learning-6366F1?style=for-the-badge)
-
- Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
- Data Engineering & ML Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
- Dev Tools
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- 🎓 **Education**: B.Tech in Computer Science & Engineering (**Batch of 2026**) from Rungta College of Engineering & Technology *(CGPA: 8.09/10)*
+- 🏆 **Achievement**: **2nd Place at *Hack for Impact 2024*** (50+ competing teams), recognized by **BoAt CEO Aman Gupta**
+- ⚙️ **Core Focus**: Engineering high-performance **Python backends** (FastAPI, Pydantic), microservices, and agentic workflows
+- 🤖 **Generative AI & LLMs**: Architecting Retrieval-Augmented Generation (**RAG**) systems, vector indexing, and LangChain agents
+- ☁️ **DevOps & Cloud**: CI/CD automation via **GitHub Actions**, containerized deployments on **Render**, **Railway**, **Supabase**, and **AWS**
 
 ---
 
-##  Projects
+## 🛠 Technical Skills
 
-###  [RepurposeAI — NLP-Powered Content Transformation System](https://github.com/Reena1912/Ai-content)
-> Transforms long-form articles into platform-ready content for **Twitter, LinkedIn, Instagram, Newsletter & Medium** — in seconds.
-
-- Leverages **Groq's LLaMA 3.3 70B** with zero-shot learning to generate 5 platform-optimized outputs
-- Full-stack **FastAPI** backend with **JWT authentication** (bcrypt hashing, 24h token expiry, 5-check password validation)
-- **PostgreSQL** on Supabase for user management & history tracking; deployed on **Render**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square) |
+| **Generative AI & LLMs** | ![RAG](https://img.shields.io/badge/RAG-2EA44F?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square) ![LLaMA 3.3](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=flat-square) ![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square) ![Text Embeddings](https://img.shields.io/badge/Text_Embeddings-00ACC1?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-43A047?style=flat-square) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![ChromaDB](https://img.shields.io/badge/Vector_DB-FF6600?style=flat-square) |
+| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Testing & DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Cloud & Security** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-4B8BBE?style=flat-square) |
 
 ---
 
-###  [Problem Recommender System](https://github.com/Reena1912/problem-recommender)
-> Smart problem recommender that analyzes your submission history and targets your weak spots.
+## 🚀 Featured Projects
 
-- **Identifies weak topics** using failure-rate analytics and dynamically recommends unsolved problems with difficulty fallback logic
-- **GraphQL integration** with LeetCode API for real-time profile analysis across 3000+ problems
-- **Data pipeline** (Fetch → Process → Analyze) with <1 second analysis time
-- **Personalized rankings** using custom weakness-score algorithm
+### 🤖 [SupportFlow — Enterprise Agentic Chatbot](https://github.com/Reena1912)
+> Retrieval-Augmented Generation (RAG) agent resolving domain-specific customer support queries with zero hallucination.
 
-**Tech:** Python • GraphQL • Data Engineering • APIs
+- **RAG & LangChain Pipeline**: Built with **FastAPI**, **ChromaDB**, and **Groq's Llama 3.3** to fetch and deliver context-bounded responses.
+- **Scraping & Indexing**: Created an ETL pipeline using **Playwright** for web scraping and **LangChain** for text chunking, semantically indexing 300+ vector records into ChromaDB.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
-###  [Codebase Archaeologist — Automated Program Analysis System](https://github.com/Reena1912)
-> AI-powered legacy code analysis tool that automates documentation, detects code smells, and maps dependencies.
+### 📊 [AlgoMatch — LeetCode Recommendation Engine](https://github.com/Reena1912/problem-recommender)
+> Tag-based weakness-scoring recommendation engine ingesting 3,000+ problems to target user skill gaps.
 
-- Novel algorithm combining **AST analysis + graph-based dependency mapping** — automates **90% of legacy documentation**, reducing developer onboarding time by **40%**
-- Mapped **10,000+ inter-module relationships** across 7+ codebases using **NetworkX & Graphviz**
-- Detects **6+ code smell types** (dead code, duplicates, magic numbers, circular deps) with complexity heatmaps
-- Multi-format output pipeline (HTML, Markdown, JSON) + interactive **Streamlit** dashboard
+- **GraphQL & Caching**: Real-time profile ingest via **LeetCode GraphQL API**, backed by a two-tier caching layer.
+- **Testing & Auth**: Secured via **Pydantic** validation & **Supabase Auth**; automated CI/CD pipeline enforcing code quality via **pytest** and **GitHub Actions**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AST](https://img.shields.io/badge/AST_Analysis-4B8BBE?style=flat)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
+### 🔄 [RepurposeAI — Content Transformation System](https://github.com/Reena1912/Ai-content)
+> Transforms long-form articles into platform-ready outputs for Twitter, LinkedIn, Instagram, Newsletter & Medium in seconds.
 
+- **Groq LLaMA 3.3 70B**: Zero-shot learning system for multi-channel copy generation.
+- **Security & Data**: Full-stack **FastAPI** backend with **JWT Auth** (bcrypt hashing, 24h expiration) and **PostgreSQL on Supabase**.
 
-###  [NeuroScanAI](https://github.com/Reena1912/NeuroScanAI)
-> AI-powered web app that analyzes patient medical reports using multiple virtual medical specialists.
-
-- Transforms complex medical reports into **clear, structured summaries** using Generative AI
-- Multi-specialist virtual consultation engine — makes medical report interpretation accessible to all
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-FF6B35?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LLaMA 3.3](https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-###  Hack for Impact — Startup × Investor Matchmaking Platform 🏆
-> Intelligent matchmaking platform connecting startups with investors — built at a national hackathon.
+### 🕵️‍♂️ [Codebase Archaeologist — Automated Program Analysis](https://github.com/Reena1912)
+> AST parsing and graph-based dependency mapping engine automating legacy code documentation and anti-pattern detection.
 
-- ML-driven **entity extraction & similarity scoring** to match startups with relevant investors and incubators
--  **2nd Place** at national hackathon, awarded by **BoAt CEO Aman Gupta**
+- **Dependency Graphing**: Mapped 10,000+ relationships across 7+ codebases using **NetworkX & Graphviz**, reducing developer onboarding time by 40%.
+- **Anti-Pattern Engine**: Detects 6+ code smells (dead code, circular dependencies, magic numbers) rendered on an interactive **Streamlit** dashboard with **Plotly** heatmaps.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AST](https://img.shields.io/badge/AST_Analysis-4B8BBE?style=flat-square) ![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-##  Experience
+### 🏆 Startup × Investor Matchmaking Platform *(Hack for Impact Winner)*
+> ML-driven entity extraction & similarity scoring platform connecting startups with relevant investors and incubators.
 
-** Data Analytics Research Intern** — *VOIS for Tech Program*
+- **National Recognition**: Won **2nd Place** out of 50+ competing teams, awarded by **BoAt CEO Aman Gupta**.
 
-- Automated data transformation pipelines for **multi-domain datasets** with preprocessing, validation & statistical analysis
-- Research-grade **data quality analysis** across 5+ structured datasets — custom algorithms for anomaly detection, missing data imputation & feature engineering
-- Built and optimized **3+ end-to-end ETL pipelines** focused on scalability and production reproducibility
-- Collaborated via **Git/GitHub**, documented technical methodologies and experimental workflows
----
-
-##  Awards & Certifications
-
-** Hack for Impact Hackathon 2024 — 2nd Place** *(National Level)*
-> Recognized by **BoAt CEO Aman Gupta** for building an ML-powered startup-investor matchmaking platform
-
-** Certifications**
-
-![Oracle](https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-F80000?style=flat&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Essentials-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Foundations-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman_API_Fundamentals-FF6C37?style=flat&logo=postman&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI_Basics-7C3AED?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 
 ---
 
-##  GitHub Stats
+## 💼 Work Experience
+
+**Data Analytics Intern** — *_VOIS for Tech Program* *(Sept 2025 – Oct 2025)*
+- Engineered data cleaning and preprocessing pipelines (ETL) using **Python & Pandas** to handle missing values, duplicates, and anomalies across multi-domain datasets.
+- Executed exploratory data analysis (EDA) and generated 10+ data visualizations using **Matplotlib, Seaborn, and Plotly**.
+- Applied correlation and regression models to deliver actionable strategic recommendations for business positioning.
+
+---
+
+## 📜 Certifications & Honors
+
+- 🏆 **Hack for Impact 2024 — 2nd Place** *(National Level, 50+ teams)* — Recognized by **Aman Gupta (CEO, BoAt)**
+- ☁️ **Oracle Cloud Infrastructure 2025 AI Foundations Associate** *(1Z0-1122-25)*
+- ☁️ **AWS Cloud Essentials**
+- 🐙 **GitHub Foundations**
+- 📬 **Postman API Fundamentals**
+- 🤖 **Generative AI Basics**
+
+---
+
+## 📬 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reena1912&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reena1912&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reena1912&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-##  Get in Touch
-
-<p align="left">
   <a href="mailto:reenarao1912@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/k-reena-0aa37b244/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Reena1912">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
->  Open to collaborations on AI tools, NLP research, backend systems, and anything that pushes the boundaries of what LLMs can do!
-
----
-
 <p align="center">
-  <em>✨ "Build things that matter." ✨</em>
+  <em>✨ "Building intelligent, practical systems at the intersection of AI, backends, and data." ✨</em>
 </p>
